@@ -1,0 +1,7 @@
+npx create-react-app {filename} // normal way to create
+npm run start // to start the app
+
+****Using vite****
+npm create vite@latest //to create a vite project
+npm install
+npm run dev
